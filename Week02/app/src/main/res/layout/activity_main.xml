@@ -13,7 +13,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="44dp"
-        android:text="Hi My name is Jeany Kim!"
+        android:text="Kim Jeany"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
